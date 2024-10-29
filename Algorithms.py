@@ -1,6 +1,6 @@
 # Algorithm implementations of BFS, DFS and Dijkstra's Algorithm
 
-import collections import deque
+from collections import deque
 import heapq
 
 #BFS Algorithm
