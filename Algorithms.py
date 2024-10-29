@@ -4,8 +4,8 @@ from collections import deque
 import heapq
 
 #BFS Algorithm
-
-def bfs_path(graph, goal):
+#Find the shortest path by the number of edges(Stops)
+def bfs_path(graph, start, goal):
     queue = deque([(start, [start])])  # Initialize a queue with the start node and its path
     visited = set()  # Initialize an empty set to keep track of visited nodes
 
@@ -21,7 +21,8 @@ def bfs_path(graph, goal):
 
     return None
 
-#DFS Algorithm
+# DFS Algorithm
+# To explore all possible paths and perhaps find path with specific characteristics
 def dfs_path(graph, source, target):
     stack = [(source, [source])]  # Initialize a stack with the source node and its path
     visited = set()  # Initialize an empty set to keep track of visited nodes
@@ -40,6 +41,7 @@ def dfs_path(graph, source, target):
 
 
 #Dijkstra's Algorithm
+# for pathfinidng based on edge weigths lke distace or time
 def dijkstra_path(graph, start, goal):
     min_heap = []  # Initialize an empty min-heap
     heapq.heappush(min_heap, (0, start, [start]))  # Add the start node and its path to the min-heap with a weight of 0
