@@ -1,22 +1,6 @@
+#algorithms used
 import heapq
 from collections import deque
-
-def bfs(graph, start, goal):
-    visited = set()
-    queue = deque([(start, [start])])
-
-    while queue:
-        node, path = queue.popleft()
-        if node in visited:
-            continue
-        visited.add(node)
-
-        for neighbor in graph.get_neighbors(node):
-            if neighbor == goal:
-                return path + [neighbor]
-            queue.append((neighbor, path + [neighbor]))
-
-    return None
 
 def dfs(graph, start, goal):
     visited = set()
@@ -53,5 +37,22 @@ def dijkstra(graph, start, goal):
             if neighbor not in visited:
                 distance = attributes['distance']
                 heapq.heappush(heap, (cost + distance, neighbor, path + [neighbor]))
+
+    return None
+
+def bfs(graph, start, goal):
+    visited = set()
+    queue = deque([(start, [start])])
+
+    while queue:
+        node, path = queue.popleft()
+        if node in visited:
+            continue
+        visited.add(node)
+
+        for neighbor in graph.get_neighbors(node):
+            if neighbor == goal:
+                return path + [neighbor]
+            queue.append((neighbor, path + [neighbor]))
 
     return None

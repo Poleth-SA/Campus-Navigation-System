@@ -1,10 +1,15 @@
 import tkinter as tk
-from src.ui import CampusNavigationUI 
+from src.visual import CampusNavigator
 
 def main():
-    root = tk.Tk()
-    app = CampusNavigationUI(root) 
-    root.mainloop()
+    try:
+        root = tk.Tk()
+        app = CampusNavigator(root) 
+        root.mainloop()
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        root.quit()
+
 
 if __name__ == "__main__":
     main()

@@ -14,7 +14,6 @@ DanBlackHall,LangsdorfHall,91,1,True
 DanBlackHall,McCarthyHall,102,1,True
 Engineering,EastsideNorthParkingStructure,56,1,True
 EastsideNorthParkingStructure,EastsideSouthParkingStructure,67,1,True
-EastsideSouthParkingStructure,ParkingLotA,151,2,True
 GordonHall,Humanities,59,1,True
 GordonHall,LangsdorfHall,97,1,True
 Humanities,McCarthyHall,70,1,True
