@@ -1,0 +1,208 @@
+start,end,distance,time,accessible
+Admission Office,Clayes Performance Arts Center,804.49,2.7,Yes
+Admission Office,Computer Science,"1358.83",4.5,Yes
+Admission Office,Dan Black Hall,324.4,1.1,Yes
+Admission Office,Eastside North Parking Structure,"1057.98",3.5,Yes
+Admission Office,Eastside South Parking Structure,976.39,3.2,Yes
+Admission Office,Engineering,"1,76.54",4.2,Yes
+Admission Office,Gordon Hall,309.1,1.1,Yes
+Admission Office,Humanities,545.79,1.8,Yes
+Admission Office,Kinesiology,"1431.68",4.7,Yes
+Admission Office,Langsdorf Hall,100.72,0.4,Yes
+Admission Office,McCarthy Hall,350.86,1.2,Yes
+Admission Office,Nutwood Parking Structure,"1165.57",3.8,Yes
+Admission Office,Pollak Library,826.93,2.7,Yes
+Admission Office,Student Recreation Center,"1647.98",5.4,Yes
+Clayes Performance Arts Center, Admission Office,804.49,2.7,Yes
+Clayes Performance Arts Center,Computer Science,"1392.13",4.6,Yes
+Clayes Performance Arts Center,Dan Black Hall,542.97,1.8,Yes
+Clayes Performance Arts Center,Eastside North Parking Structure,"1484.61",4.9,Yes
+Clayes Performance Arts Center,Eastside South Parking Structure,"1504.51",4.9,Yes
+Clayes Performance Arts Center,Engigineering,"1237.52",4.1,Yes
+Clayes Performance Arts Center,Gordon Hall,822.12,2.7,Yes
+Clayes Performance Arts Center,Humanities,742.18,2.5,Yes
+Clayes Performance Arts Center,Kinesiology,826.51,2.7,Yes
+Clayes Performance Arts Center,Langsdorf Hall,898.22,3,Yes
+Clayes Performance Arts Center,McCarthy Hall,475.31,1.6,Yes
+Clayes Performance Arts Center,Nutwood Parking Structure,764.81,2.5,Yes
+Clayes Performance Arts Center,Pollak Library,502.27,1.7,Yes
+Clayes Performance Arts Center,Student Recreation Center,500.89,1.7,Yes
+Computer Science,Admission Office,"1358.83",4.5,Yes
+Computer Science,Clayes Performance Arts Center,"1392.13",4.6,Yes
+Computer Science,Dan Black Hall,"1511.02",5,Yes
+Computer Science,Eastside North Parking Structure,704.75,2.3,Yes
+Computer Science,Eastside South Parking Structure,874.89,2.9,Yes
+Computer Science,Engineering,727.19,2.4,Yes
+Computer Science,Gordon Hall,858.89,2.8,Yes
+Computer Science,Humanities,631.73,2.1,Yes
+Computer Science,Kinesiology,"1068.00",3.5,Yes
+Computer Science,Langsdorf Hall,"1060.89",3.5,Yes
+Computer Science,McCarthy Hall,829.27,2.7,Yes
+Computer Science,Nutwood Parking Structure,"1302.00",4.3,Yes
+Computer Science,Pollak Library,899.76,3,Yes
+Computer Science,Student Recreation Center,"1302.54",4.3,Yes
+Dan Black Hall,Admission Office,324.4,1.1,Yes
+Dan Black Hall,Clayes Performance Arts Center,542.97,1.8,Yes
+Dan Black Hall,Computer Science,"1511.02",5,Yes
+Dan Black Hall,Eastside North Parking Structure,"1354.46",4.4,Yes
+Dan Black Hall,Eastside South Parking Structure,"1291.92",4.2,Yes
+Dan Black Hall,Engineering,"1397.64",4.6,Yes
+Dan Black Hall,Gordon Hall,552.24,1.8,Yes
+Dan Black Hall,Humanities,688.26,2.3,Yes
+Dan Black Hall,Kinesiology,"1299.23",4.3,Yes
+Dan Black Hall,Langsdorf Hall,481.79,1.6,Yes
+Dan Black Hall,McCarthy Hall,206.9,0.7,Yes
+Dan Black Hall,Nutwood Parking Structure,801.84,2.7,Yes
+Dan Black Hall,Pollak Library,760.83,2.5,Yes
+Dan Black Hall,Student Recreation Center,"1025.86",3.4,Yes
+Eastside North Parking Structure,Admission Office,"1057.98",3.5,Yes
+Eastside North Parking Structure,Clayes Performance Arts Center,"1484.61",4.9,Yes
+Eastside North Parking Structure,Computer Science,704.75,2.3,Yes
+Eastside North Parking Structure,Eastside South Parking Structure,213.36,0.7,Yes
+Eastside North Parking Structure,Engineering,762.86,2.5,Yes
+Eastside North Parking Structure,Gordon Hall,797.9,2.6,Yes
+Eastside North Parking Structure,Humanities,724.63,2.4,Yes
+Eastside North Parking Structure,Kinesiology,"1,541.36",5.1,Yes
+Eastside North Parking Structure,Langsdorf Hall,954.15,3.1,Yes
+Eastside North Parking Structure,McCarthy Hall,"1179.51",3.9,Yes
+Eastside North Parking Structure,Nutwood Parking Structure,"2,114.97",6.9,Yes
+Eastside North Parking Structure,Pollak Library,"1128.76",3.7,Yes
+Eastside North Parking Structure,Student Recreation Center,"1,611.37",5.3,Yes
+Eastside South Parking Structure,Admission Office,976.39,3.2,Yes
+Eastside South Parking Structure,Clayes Performance Arts Center,"1504.51",4.9,Yes
+Eastside South Parking Structure,Computer Science,874.89,2.9,Yes
+Eastside South Parking Structure,Eastside North Parking Structure,213.36,0.7,Yes
+Eastside South Parking Structure,Engineering,958.46,3.2,Yes
+Eastside South Parking Structure,Gordon Hall,733.41,2.4,Yes
+Eastside South Parking Structure,Humanities,766.68,2.5,Yes
+Eastside South Parking Structure,Kinesiology,"1,664.42",5.5,Yes
+Eastside South Parking Structure,Langsdorf Hall,849.69,2.8,Yes
+Eastside South Parking Structure,McCarthy Hall,"1139.11",3.7,Yes
+Eastside South Parking Structure,Nutwood Parking Structure,"2088.89",6.8,Yes
+Eastside South Parking Structure,Pollak Library,"1193.27",3.9,Yes
+Eastside South Parking Structure,Student Recreation Center,"1695.92",5.6,Yes
+Engineering,Admission Office,"1276.54",4.2,Yes
+Engineering,Clayes Performance Arts Center,"1237.52",4.1,Yes
+Engineering,Computer Science,727.19,2.4,Yes
+Engineering,Eastside North Parking Structure,762.86,2.5,Yes
+Engineering,Eastside South Parking Structure,958.46,3.2,Yes
+Engineering,Gordon Hall,"1003.78",3.3,Yes
+Engineering,Humanities,743.92,2.5,Yes
+Engineering,Kinesiology,892.59,2.9,Yes
+Engineering,Langsdorf Hall,"1235.24",4.1,Yes
+Engineering,McCarthy Hall,"1179.27",3.9,Yes
+Engineering,Nutwood Parking Structure,"1987.79",6.5,Yes
+Engineering,Pollak Library,757.37,2.5,Yes
+Engineering,Student Recreation Center,"1113.42",3.7,Yes
+Gordon Hall,Admission Office,309.1,1.1,Yes
+Gordon Hall,Clayes Performance Arts Center,822.12,2.7,Yes
+Gordon Hall,Computer Science,858.89,2.8,Yes
+Gordon Hall,Dan Black Hall,552.24,1.8,Yes
+Gordon Hall,Eastside North Parking Structure,797.9,2.6,Yes
+Gordon Hall,Eastside South Parking Structure,733.41,2.4,Yes
+Gordon Hall,Engineering,"1003.78",3.3,Yes
+Gordon Hall,Humanities,283,1,Yes
+Gordon Hall,Kinesiology,"1,284.05",4.2,Yes
+Gordon Hall,Langsdorf Hall,241.05,0.8,Yes
+Gordon Hall,McCarthy Hall,407.87,1.4,Yes
+Gordon Hall,Nutwood Parking Structure,"1342.38",4.4,Yes
+Gordon Hall,Pollak Library,674.8,2.2,Yes
+Gordon Hall,Student Recreation Center,"1153.21",3.8,Yes
+Humanities,Admission Office,545.79,1.8,Yes
+Humanities,Clayes Performance Arts Center,742.18,2.5,Yes
+Humanities,Computer Science,631.73,2.1,Yes
+Humanities,Dan Black Hall,688.26,2.3,Yes
+Humanities,Eastside North Parking Structure,724.63,2.4,Yes
+Humanities,Eastside South Parking Structure,766.68,2.5,Yes
+Humanities,Engineering,743.92,2.5,Yes
+Humanities,Gordon Hall,283,1,Yes
+Humanities,Kinesiology,"1028.32",3.4,Yes
+Humanities,Langsdorf Hall,520.25,1.7,Yes
+Humanities,McCarthy Hall,475.68,1.6,Yes
+Humanities,Nutwood Parking Structure,"1390.38",4.6,Yes
+Humanities,Pollak Library,438.48,1.5,Yes
+Humanities,Student Recreation Center,958.05,3.2,Yes
+Kinesiology,Admission Office,"1431.68",4.7,Yes
+Kinesiology,Clayes Performance Arts Center,826.51,2.7,Yes
+Kinesiology,Computer Science,"1068.00",3.5,Yes
+Kinesiology,Dan Black Hall,"1299.23",4.3,Yes
+Kinesiology,Eastside North Parking Structure,"1541.36",5.1,Yes
+Kinesiology,Eastside South Parking Structure,"1664.42",5.5,Yes
+Kinesiology,Engineering,892.59,2.9,Yes
+Kinesiology,Gordon Hall,"1284.05",4.2,Yes
+Kinesiology,Humanities,"1028.32",3.4,Yes
+Kinesiology,Langsdorf Hall,"1469.30",4.8,Yes
+Kinesiology,McCarthy Hall,"1463.29",4.8,Yes
+Kinesiology,Nutwood Parking Structure,"1512.29",5,Yes
+Kinesiology,Pollak Library,608.26,2,Yes
+Kinesiology,Student Recreation Center,387.59,1.3,Yes
+Langsdorf Hall,Admission Office,100.72,0.4,Yes
+Langsdorf Hall,Clayes Performance Arts Center,898.22,3,Yes
+Langsdorf Hall,Computer Science,"1060.89",3.5,Yes
+Langsdorf Hall,Dan Black Hall,481.79,1.6,Yes
+Langsdorf Hall,Eastside North Parking Structure,954.15,3.1,Yes
+Langsdorf Hall,Eastside South Parking Structure,849.69,2.8,Yes
+Langsdorf Hall,Engineering,"1235.24",4.1,Yes
+Langsdorf Hall,Gordon Hall,241.05,0.8,Yes
+Langsdorf Hall,Humanities,520.25,1.7,Yes
+Langsdorf Hall,Kinesiology,"1469.30",4.8,Yes
+Langsdorf Hall,McCarthy Hall,423.68,1.4,Yes
+Langsdorf Hall,Nutwood Parking Structure,"1994.97",6.5,Yes
+Langsdorf Hall,Pollak Library,856.31,2.8,Yes
+Langsdorf Hall,Student Recreation Center,"1361.20",4.5,Yes
+McCarthy Hall,Admission Office,350.86,1.2,Yes
+McCarthy Hall,Clayes Performance Arts Center,475.31,1.6,Yes
+McCarthy Hall,Computer Science,829.27,2.7,Yes
+McCarthy Hall,Dan Black Hall,206.9,0.7,Yes
+McCarthy Hall,Eastside North Parking Structure,"1179.51",3.9,Yes
+McCarthy Hall,Eastside South Parking Structure,"1139.11",3.7,Yes
+McCarthy Hall,Engineering,"1179.27",3.9,Yes
+McCarthy Hall,Gordon Hall,407.87,1.4,Yes
+McCarthy Hall,Humanities,475.68,1.6,Yes
+McCarthy Hall,Kinesiology,"1463.29",4.8,Yes
+McCarthy Hall,Langsdorf Hall,423.68,1.4,Yes
+McCarthy Hall,Nutwood Parking Structure,"1287.12",4.2,Yes
+McCarthy Hall,Pollak Library,588.56,2,Yes
+McCarthy Hall,Student Recreation Center,891.96,2.9,Yes
+Nutwood Parking Structure,Admission Office,"1165.57",3.8,Yes
+Nutwood Parking Structure,Clayes Performance Arts Center,764.81,2.5,Yes
+Nutwood Parking Structure,Computer Science,"1302.00",4.3,Yes
+Nutwood Parking Structure,Dan Black Hall,801.84,2.7,Yes
+Nutwood Parking Structure,Eastside North Parking Structure,"2114.97",6.9,Yes
+Nutwood Parking Structure,Eastside South Parking Structure,"2088.89",6.8,Yes
+Nutwood Parking Structure,Engineering,"1987.79",6.5,Yes
+Nutwood Parking Structure,Gordon Hall,"1342.38",4.4,Yes
+Nutwood Parking Structure,Humanities,"1390.38",4.6,Yes
+Nutwood Parking Structure,Kinesiology,"1512.29",5,Yes
+Nutwood Parking Structure,Langsdorf Hall,"1994.97",6.5,Yes
+Nutwood Parking Structure,McCarthy Hall,"1287.12",4.2,Yes
+Nutwood Parking Structure,Pollak Library,"1011.63",3.3,Yes
+Nutwood Parking Structure,Student Recreation Center,"1216.69",4,Yes
+Pollak Library,Admission Office,826.93,2.7,Yes
+Pollak Library,Clayes Performance Arts Center,502.27,1.7,Yes
+Pollak Library,Computer Science,899.76,3,Yes
+Pollak Library,Dan Black Hall,760.83,2.5,Yes
+Pollak Library,Eastside North Parking Structure,1128.76,3.7,Yes
+Pollak Library,Eastside South Parking Structure,1193.27,3.9,Yes
+Pollak Library,Engineering,757.37,2.5,Yes
+Pollak Library,Gordon Hall,674.8,2.2,Yes
+Pollak Library,Humanities,438.48,1.5,Yes
+Pollak Library,Kinesiology,608.26,2,Yes
+Pollak Library,Langsdorf Hall,856.31,2.8,Yes
+Pollak Library,McCarthy Hall,588.56,2,Yes
+Pollak Library,Nutwood Parking Structure,1011.63,3.3,Yes
+Pollak Library,Student Recreation Center,505.85,1.7,Yes
+Student Recreation Center,Admission Office,"1647.98",5.4,Yes
+Student Recreation Center,Clayes Performance Arts Center,500.89,1.7,Yes
+Student Recreation Center,Computer Science,"1302.54",4.3,Yes
+Student Recreation Center,Dan Black Hall,"1025.86",3.4,Yes
+Student Recreation Center,Eastside North Parking Structure,"1611.37",5.3,Yes
+Student Recreation Center,Eastside South Parking Structure,"1695.92",5.6,Yes
+Student Recreation Center,Engineering,"1113.42",3.7,Yes
+Student Recreation Center,Gordon Hall,"1153.21",3.8,Yes
+Student Recreation Center,Humanities,958.05,3.2,Yes
+Student Recreation Center,Kinesiology,387.59,1.3,Yes
+Student Recreation Center,Langsdorf Hall,"1361.20",4.5,Yes
+Student Recreation Center,McCarthy Hall,891.96,2.9,Yes
+Student Recreation Center,Nutwood Parking Structure,"1216.69",4,Yes
+Student Recreation Center,Pollak Library,505.85,1.7,Yes
